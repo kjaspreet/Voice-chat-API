@@ -9,5 +9,3 @@ redis==2.9.0
 requests==2.2.0
 wsgiref==0.1.2
 yolk==0.4.3
-python_version==2.7.14
-
